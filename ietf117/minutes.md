@@ -127,9 +127,9 @@ Tommy: Totally agree. We should specify a better trust model
 
 David: +1 and let's do it INTAREA.
 
-Mirja: Do you also need to find the proxy?
+Mirja: Is proxy discovery covered as well?
 
-Tommy: If I already trust a proxy, it is easy to find what also can be used.
+Tommy: Yes and also if I already trust a proxy, it is easy to find what also can be used.
 
 Mirja: Would it fit in MASQUE?
 
